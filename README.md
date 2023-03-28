@@ -1,2 +1,2 @@
 # Visite my web curriculo
-(https://lusonetto.github.io/Web-Curriculo/)[Meu Webcurriculo]
+(Meu Webcurriculo)[https://lusonetto.github.io/Web-Curriculo/]
